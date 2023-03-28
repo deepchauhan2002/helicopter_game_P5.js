@@ -1,2 +1,5 @@
-# helicopter_game_P5.js
- the classic helicopter game made with the help of P5.js 
+# p5 Heli
+
+A javascript recreation of classic flash helicopter game
+
+![alt text](http://i.imgur.com/HRHDfe1.png "sample image")
